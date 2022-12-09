@@ -51,9 +51,6 @@ namespace Day6
 
 	int main()
 	{
-		const char* debugInput = "bvwbjplbgvbhsrlpgdmjqwftvncz";
-		const char* debugInput2 = "nppdvjthqldpwncqszvftbrmjlhg";
-		const char* debugInput3 = "nznrnfrfntjfmvfwmzdfjlvtqnbhcprsg";
 		part2(input);
 		return 0;
 	}
